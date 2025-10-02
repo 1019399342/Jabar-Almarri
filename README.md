@@ -7,3 +7,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/1019399342/Jabar-Almarri.git
 git push -u origin main
+https://trackzonas.com/index.php/redirect/index/67b46a9691ec7?clickId=175942175009990TSATV62001R16a2Rc0dcR4cd6R644eR3e0cR2010Rad266Vc8&subid1=7105456-1036286521-3786755655&subid2=7105456&subid3=Safari
